@@ -1,1 +1,2 @@
 # TerminalParticles
+Generates snow noise from characters in the terminal. Just for fun
