@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/kristi/projects/TerminalParticles/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

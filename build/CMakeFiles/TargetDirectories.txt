@@ -1,0 +1,7 @@
+/home/kristi/projects/TerminalParticles/build/CMakeFiles/terminalparticles.dir
+/home/kristi/projects/TerminalParticles/build/CMakeFiles/edit_cache.dir
+/home/kristi/projects/TerminalParticles/build/CMakeFiles/rebuild_cache.dir
+/home/kristi/projects/TerminalParticles/build/CMakeFiles/list_install_components.dir
+/home/kristi/projects/TerminalParticles/build/CMakeFiles/install.dir
+/home/kristi/projects/TerminalParticles/build/CMakeFiles/install/local.dir
+/home/kristi/projects/TerminalParticles/build/CMakeFiles/install/strip.dir

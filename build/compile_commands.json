@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kristi/projects/TerminalParticles/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/terminalparticles.dir/main.cpp.o -c /home/kristi/projects/TerminalParticles/main.cpp",
+  "file": "/home/kristi/projects/TerminalParticles/main.cpp",
+  "output": "CMakeFiles/terminalparticles.dir/main.cpp.o"
+}
+]
